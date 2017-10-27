@@ -1,0 +1,84 @@
+Starting build...
+24-Jan-15  12:19:25 PM
+Project file: C:\PDM\Setup\PDM.suf
+
+Updating screen themes
+Creating build copy of data
+Locating build configuration
+> Using build configuration: Default
+> Target platform: 32-bit (x86)
+Expanding design time constants
+Excluding files not in current build configuration...
+> 0 files excluded from build
+Excluding dependency modules not in current build configuration...
+Performing pre-build checks...
+Verifying archive files...
+Verifying external files...
+Ordering file list...
+Expanding folder references...
+Excluding global script files for build configuration...
+Including global script files...
+> Script file included: C:\Program Files\Setup Factory9\Includes\Scripts\_SUF70_Global_Functions.lua
+Processing serial number lists...
+> Encrypting: List 1 (0 items)
+Initializing archive...
+> Using temporary build folder: C:\Users\Simon\AppData\Local\Temp\_ir_sf_build_0
+Gathering primer files...
+Collecting fonts...
+Building graphic image files into setup...
+> Deleting temporary image files from previous builds...
+> Collecting images from Before Installing Screens
+> Collecting images from During Installiation Screens
+> Collecting images from After Installing Screens
+> Collecting images from After Uninstalling Screens
+> Collecting images from During Uninstalliation Screens
+> Collecting images from Before Uninstalling Screens
+> Collecting other images
+> Converting images...
+>> Image: C:\Program Files\Setup Factory9\Themes\Modern\Modern_top.jpg
+>> Image: C:\Program Files\Setup Factory9\Themes\Modern\Modern_side.jpg
+>> Image: C:\Program Files\Setup Factory9\Themes\Modern\Modern_body.jpg
+Processing language modules...
+> Default language added: English (C:\Program Files\Setup Factory9\Languages\English.xml)
+> Language added: English (C:\Program Files\Setup Factory9\Languages\Chinese_Simplified.xml)
+Compressing files...
+> Compressing: C:\Windows\System32\MSBIND.DLL
+... compression ratio: 64% (78848 bytes -> 28198 bytes)
+> Compressing: C:\Windows\System32\MSDBRPTR.DLL
+... compression ratio: 62% (322560 bytes -> 120623 bytes)
+> Compressing: C:\Windows\System32\MSSTDFMT.DLL
+... compression ratio: 59% (119808 bytes -> 48744 bytes)
+> Compressing: C:\Windows\System32\MSADODC.OCX
+... compression ratio: 61% (131856 bytes -> 51102 bytes)
+> Compressing: C:\Windows\System32\MSDATGRD.OCX
+... compression ratio: 58% (275216 bytes -> 113011 bytes)
+> Compressing: C:\Windows\System32\MSCOMCT2.OCX
+... compression ratio: 54% (662288 bytes -> 304436 bytes)
+> Compressing: C:\Windows\System32\MSDATLST.OCX
+... compression ratio: 58% (234016 bytes -> 98206 bytes)
+> Compressing: C:\Windows\System32\COMDLG32.OCX
+... compression ratio: 63% (152848 bytes -> 56167 bytes)
+> Compressing: C:\Windows\System32\MSFLXGRD.OCX
+... compression ratio: 62% (260880 bytes -> 98359 bytes)
+> Compressing: C:\Windows\System32\COMCTL32.OCX
+... compression ratio: 66% (609824 bytes -> 201399 bytes)
+> Compressing: F:\PDM\Final\skinh.she
+... compression ratio: 0% (18930 bytes -> 18930 bytes)
+> Compressing: F:\PDM\Final\SkinH_VB6.dll
+... compression ratio: 1% (99251 bytes -> 97527 bytes)
+> Compressing: C:\PDM\Setup\Setup.ini
+... compression ratio: 0% (108 bytes -> 107 bytes)
+> Compressing: C:\PDM\Setup\Test.ini
+... compression ratio: 0% (107 bytes -> 107 bytes)
+> Compressing: F:\PDM\Final\PDM.exe
+... compression ratio: 83% (1961984 bytes -> 329157 bytes)
+Processing While Installing screens...
+Creating setup configuration file...
+Initializing archive file...
+Creating archive header...
+> Launcher manifest
+> Writing version information
+> Setup engine
+Error 3013: Failed to decrypt setup engine file: 34003
+
+Build failed - 1 Error(s), 0 Warning(s)

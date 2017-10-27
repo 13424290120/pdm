@@ -1,0 +1,4 @@
+select distinct * into #Tmp from sglprt4bomlog 
+drop table sglprt4bomlog 
+select * into sglprt4bomlog from #Tmp 
+drop table #Tmp 
